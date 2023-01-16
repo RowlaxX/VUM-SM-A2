@@ -4,7 +4,7 @@ The goal of this project is to mesure the performance of https://en.wikipedia.or
 
 # Results
 
-A result set can be found in the results directory
+A result set can be found in the **results** directory
 
 # Launching
 
